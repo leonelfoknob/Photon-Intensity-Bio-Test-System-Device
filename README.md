@@ -2,7 +2,7 @@
 
 This project focuses on testing the effects of varying light intensities and colors (yellow, green, and blue) on biological cells, with the goal of understanding how different light wavelengths and photon intensities affect cell survival over time. The system is designed to be modular, allowing easy modification and recharging, making it both flexible and efficient for experimentation.
 
-#Components and Setup:
+Components and Setup:
 
 - 24V Battery System:
 Batteries: The system is powered by three lithium-ion batteries, providing a total of 24V. The battery management is handled by a 3S BMS (20A) to ensure safe charging and discharging.
@@ -40,7 +40,8 @@ Light intensity and timing can be adjusted on the fly, offering flexibility duri
 This project was developed for a specific client, tailored to their requirements for a modular, efficient, and flexible testing system.
 
 Circuit Diagram:
-- A detailed circuit diagram outlining the connections between the batteries, Arduino, LED lights, rotary encoder, and display will be included. [Insert Circuit Diagram]
+- A detailed circuit diagram outlining the connections between the batteries, Arduino, LED lights, rotary encoder, and display will be included.
+  ![fenar_devre](https://github.com/user-attachments/assets/0a64cd72-4998-4e82-b19c-8aedf6af1669)
 
 Project Video:
 - A video demonstration of the system in action is available, showcasing the different light intensities, colors, and real-time data monitoring. [Insert Video Link]
