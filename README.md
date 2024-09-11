@@ -1,8 +1,9 @@
-# Photon-Intensity-Bio-Test-System
+# Photon-Intensity-Bio-Test-System-Device
 
 This project focuses on testing the effects of varying light intensities and colors (yellow, green, and blue) on biological cells, with the goal of understanding how different light wavelengths and photon intensities affect cell survival over time. The system is designed to be modular, allowing easy modification and recharging, making it both flexible and efficient for experimentation.
 
-Components and Setup:
+##Components and Setup:
+
 - 24V Battery System:
 Batteries: The system is powered by three lithium-ion batteries, providing a total of 24V. The battery management is handled by a 3S BMS (20A) to ensure safe charging and discharging.
 Rechargeable: The battery system is designed to be easily rechargeable, enabling long-term use and repeatability for experiments.
