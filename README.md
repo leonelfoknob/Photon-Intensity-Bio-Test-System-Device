@@ -5,8 +5,10 @@ This project focuses on testing the effects of varying light intensities and col
 Components and Setup:
 
 - 24V Battery System:
-Batteries: The system is powered by three lithium-ion batteries, providing a total of 24V. The battery management is handled by a 3S BMS (20A) to ensure safe charging and discharging.
-Rechargeable: The battery system is designed to be easily rechargeable, enabling long-term use and repeatability for experiments.
+The system is powered by three 3.7V lithium-ion batteries connected in series to provide 12V. The voltage is stepped up to 24V using an XL6009 DC-DC voltage regulator to meet the system's power requirements.
+
+- Battery Management: A 3S BMS (20A) is used to ensure safe charging and discharging, protecting the batteries during use.
+Rechargeable: The battery system is designed to be easily rechargeable, supporting long-term use and ensuring repeatability for experiments.
 
 - Arduino Nano:
 System Controller: The Arduino Nano acts as the brain of the system, managing the light intensity, timing, and interfacing with the rotary encoder for user input.
@@ -41,7 +43,7 @@ This project was developed for a specific client, tailored to their requirements
 
 Circuit Diagram:
 - A detailed circuit diagram outlining the connections between the batteries, Arduino, LED lights, rotary encoder, and display will be included.
-  ![fenar_devre](https://github.com/user-attachments/assets/0a64cd72-4998-4e82-b19c-8aedf6af1669)
+![fenar_devre](https://github.com/user-attachments/assets/0a64cd72-4998-4e82-b19c-8aedf6af1669)
 
 Project Video:
 - A video demonstration of the system in action is available, showcasing the different light intensities, colors, and real-time data monitoring. [Insert Video Link]
