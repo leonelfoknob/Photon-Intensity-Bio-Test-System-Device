@@ -43,6 +43,7 @@ This project was developed for a specific client, tailored to their requirements
 
 Circuit Diagram:
 - A detailed circuit diagram outlining the connections between the batteries, Arduino, LED lights, rotary encoder, and display will be included.
+
 ![fenar_devre](https://github.com/user-attachments/assets/0a64cd72-4998-4e82-b19c-8aedf6af1669)
 
 Project Video:
