@@ -42,4 +42,4 @@ Circuit Diagram:
 - A detailed circuit diagram outlining the connections between the batteries, Arduino, LED lights, rotary encoder, and display will be included. [Insert Circuit Diagram]
 
 Project Video:
-A video demonstration of the system in action is available, showcasing the different light intensities, colors, and real-time data monitoring. [Insert Video Link]
+- A video demonstration of the system in action is available, showcasing the different light intensities, colors, and real-time data monitoring. [Insert Video Link]
